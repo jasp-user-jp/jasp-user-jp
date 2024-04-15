@@ -1,6 +1,6 @@
 ### ようこそ 👋
 
-JASPユーザの会のGithubサイトです。
+JASPユーザの会のGithubアカウントです。
 
 JASPユーザの会は，[JASP](https://jasp-stats.org/)の日本語化と，JASPを使ったテキスト，[JASPで統計を学ぼう](https://jasp-user-jp.github.io/LSwithJASP/)の翻訳等の管理をしています。
 
